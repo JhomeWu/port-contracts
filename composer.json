@@ -12,8 +12,8 @@
     },
     "autoload": {
         "psr-4": {
-            "JHomeWu\\PortContracts\\": "src",
-            "JHomeWu\\PortContracts\\Database\\Factories\\": "database/factories"
+            "JhomeWu\\PortContracts\\": "src",
+            "JhomeWu\\PortContracts\\Database\\Factories\\": "database/factories"
         },
         "files": [
             "src/helpers.php"
@@ -21,7 +21,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "JHomeWu\\PortContracts\\Tests\\": "tests"
+            "JhomeWu\\PortContracts\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -35,7 +35,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "JHomeWu\\PortContracts\\PackageServiceProvider"
+                "JhomeWu\\PortContracts\\PackageServiceProvider"
             ]
         }
     },

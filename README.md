@@ -6,7 +6,7 @@ Create Package in your project to store package locally
 ```bash
 mkdir -p ./packages/jhomewu
 cd ./packages/jhomewu
-git clone git@github.com:JHomeWu/port-contracts.git ./packages/jhomewu/port-contracts
+git clone git@github.com:JhomeWu/port-contracts.git ./packages/jhomewu/port-contracts
 ```
 Set composer to get package locally
 ```

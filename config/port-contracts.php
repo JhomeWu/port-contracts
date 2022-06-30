@@ -1,6 +1,6 @@
 <?php
 
-// config for JHomeWu/PortContracts
+// config for JhomeWu/PortContracts
 
 return [
 

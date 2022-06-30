@@ -1,6 +1,6 @@
 <?php
 
-namespace JHomeWu\PortContracts;
+namespace JhomeWu\PortContracts;
 
 use Illuminate\Support\ServiceProvider;
 

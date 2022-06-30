@@ -1,6 +1,6 @@
 <?php
 
-namespace JHomeWu\PortContracts\Console;
+namespace JhomeWu\PortContracts\Console;
 
 use Illuminate\Console\Command;
 

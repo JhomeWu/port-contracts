@@ -1,6 +1,6 @@
 <?php
 
-namespace JHomeWu\PortContracts\Database\Factories;
+namespace JhomeWu\PortContracts\Database\Factories;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
 
