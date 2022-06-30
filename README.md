@@ -5,7 +5,6 @@ You can install the package via composer:
 Create Package in your project to store package locally
 ```bash
 mkdir -p ./packages/jhomewu
-cd ./packages/jhomewu
 git clone git@github.com:JhomeWu/port-contracts.git ./packages/jhomewu/port-contracts
 ```
 Set composer to get package locally
